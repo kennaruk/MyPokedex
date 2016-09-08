@@ -1,0 +1,22 @@
+{
+  "name": "Ken-Pokedex",
+  "version": "1.0.0",
+  "description": "Example of front techs homework #1",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennaruk/MyPokedex.git"
+  },
+  "author": "Nitipat Wuttisasiwat",
+  "license": "TU",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
